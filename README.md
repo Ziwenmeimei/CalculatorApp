@@ -6,3 +6,5 @@ build succeeds on the dashboard
 
 steps 15-19
 ![截屏2021-03-13 上午12 04 36](https://user-images.githubusercontent.com/50055159/111023902-85e77580-8390-11eb-895f-c80f010da988.png)
+
+![截屏2021-03-13 上午12 08 31](https://user-images.githubusercontent.com/50055159/111023906-926bce00-8390-11eb-939a-0973139f2c33.png)
